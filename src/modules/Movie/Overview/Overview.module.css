@@ -1,0 +1,9 @@
+.overview__button {
+   background: #fff;
+   color: #022644;
+   transition: all 0.5s;
+}
+
+.overview__button:hover {
+    background-color: #ffbe58;
+}
